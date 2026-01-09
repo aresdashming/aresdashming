@@ -52,3 +52,11 @@ and **data-driven decision logic in practical systems**.
 
 ## 📫 Contact
 - Email: 774066115@qq.com
+
+- <p align="center">
+  <img 
+    src="https://pixel-profile.vercel.app/api/github-stats?username=aresdashming&theme=summer" 
+    height="160"
+  />
+</p>
+
