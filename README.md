@@ -12,13 +12,6 @@ and **data-driven decision logic in practical systems**.
 - 🧩 Focus on data collection, state modeling, and decision logic from an engineering perspective
 
 ---
-<p align="center">
-  <img
-    src="https://pixel-profile.vercel.app/api/github-stats?username=aresdashming&theme=journey&pixelate_avatar=false"
-    width="100%"
-    style="max-height:220px; object-fit:contain;"
-  />
-</p>
 
 ## 🛠️ Projects & Practice
 
@@ -59,6 +52,12 @@ and **data-driven decision logic in practical systems**.
 
 ## 📫 Contact
 - Email: 774066115@qq.com
-
+<p align="center">
+  <img
+    src="https://pixel-profile.vercel.app/api/github-stats?username=aresdashming&theme=journey&pixelate_avatar=false"
+    width="100%"
+    style="max-height:220px; object-fit:contain;"
+  />
+</p>
 
 
