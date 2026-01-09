@@ -4,6 +4,12 @@ Software Engineering background, currently focusing on **system-oriented AI appl
 and **data-driven decision logic in practical systems**.
 
 ---
+<p align="center">
+  <img
+    src="https://pixel-profile.vercel.app/api/github-stats?username=aresdashming&theme=journey&pixelate_avatar=false"
+    height="160"
+  />
+</p>
 
 ## 📘 About Me
 - 🎓 Undergraduate in Software Engineering @ Beijing Institute of Technology  
@@ -53,10 +59,5 @@ and **data-driven decision logic in practical systems**.
 ## 📫 Contact
 - Email: 774066115@qq.com
 
-- <p align="center">
-  <img 
-    src="https://pixel-profile.vercel.app/api/github-stats?username=aresdashming&theme=summer" 
-    height="160"
-  />
-</p>
+
 
